@@ -1,0 +1,83 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Environment
+env/
+venv/
+.venv/
+ENV/
+.env
+.venv
+
+# Data
+data/
+*.csv
+*.h5
+*.hdf5
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Virtual Machine Images
+*.vdi
+*.vbox
+*.vbox-prev
+*.vmwarevm
+
+# Temporary Files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.old
+
+# TensorFlow and Keras
+checkpoint
+checkpoints/
+*.ckpt
+*.hdf5
+*.pb
+*.pbtxt
+*.tflite
+
+# Keras Tuner
+my_dir/
+
+# Model Files
+model/
+*.h5
+*.model
+
+# IDE Settings
+.idea/
+.vscode/
+
+# Anaconda
+.conda/
+.condarc
+*.conda
+
+# Python Packages
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+.installed.cfg
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Distribution / Packaging
+.Python
+build
